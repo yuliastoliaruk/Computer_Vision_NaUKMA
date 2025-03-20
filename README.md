@@ -1,2 +1,2 @@
 ### Intel Image Classification
-_Author: Yuliia Stoliaruk
+_Author: Yuliia Stoliaruk_
