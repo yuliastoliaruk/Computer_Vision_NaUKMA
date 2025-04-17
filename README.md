@@ -49,9 +49,10 @@ The model is trained on the [Intel Image Classification dataset](https://www.kag
 1. Clone the repository:
    ```bash
    git clone https://github.com/yuliastoliaruk/Computer_Vision_NaUKMA.git
-
+   ```
 2. Install the requirements:
     ```bash
    pip install -r requirements.txt
+   ```
 
 3. Run the notebook: Open `intel_image_classification.ipynb` and follow the steps cell by cell.
